@@ -1241,7 +1241,7 @@
   revision = "0c8571ac0ce161a5feb57375a9cdf148c98c0f70"
 
 [[projects]]
-  branch = "containous-fork"
+  branch = "nicky-fork"
   name = "github.com/xenolf/lego"
   packages = [
     "acmev2",
@@ -1257,6 +1257,7 @@
     "providers/dns/dnspod",
     "providers/dns/duckdns",
     "providers/dns/dyn",
+    "providers/dns/dynu",
     "providers/dns/exec",
     "providers/dns/exoscale",
     "providers/dns/fastdns",
@@ -1279,7 +1280,7 @@
     "providers/dns/vultr"
   ]
   revision = "2817d2131186742bc98830c73a5d9c255b3f4537"
-  source = "github.com/containous/lego"
+  source = "github.com/nicky-dev/lego"
 
 [[projects]]
   branch = "master"
